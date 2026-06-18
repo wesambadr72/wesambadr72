@@ -86,7 +86,7 @@ Automated crypto market alerts and signal tracking bot.
 
 ## 📫 Get in Touch
 
-- 🐦 Twitter: [@ws7__](https://twitter.com/ws7__)
+- 🐦 X: [@ws7__](https://twitter.com/ws7__)
 - 💼 LinkedIn: [wesam alluhaybi](https://www.linkedin.com/in/wesam-alluhaybi-280a4233a/)
 
 ---
