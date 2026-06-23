@@ -84,6 +84,13 @@ Automated crypto market alerts and signal tracking bot.
 
 ---
 
+### 🩷📄 [AIRA](https://github.com/wesambadr72)
+**AI Research Assistant for Document Analysis**  
+Chat-first assistant that analyzes documents, surfaces evidence, detects contradictions, and helps users make faster decisions.
+`FastAPI` `AI Agents` `Document Analysis` `RAG` `Bilingual UI` `React`
+
+---
+
 ## 📫 Get in Touch
 
 - 🐦 X: [@ws7__](https://twitter.com/ws7__)
