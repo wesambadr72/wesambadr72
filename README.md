@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:DDC52E,100:DDC52E&text=Wesam%20Alluhaybi&fontColor=000000&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Software%20Engineering%20&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:FEE191,100:FEE191&text=Wesam%20Alluhaybi&fontColor=000000&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Software%20Engineering%20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=DDC52E&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer;AI%2FML+Product+Builder;FastAPI+%7C+Node.js+%7C+React+%7C+Next.js+%7C+PostgreSQL;Building+Scalable+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=FEE191&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer;AI%2FML+Product+Builder;FastAPI+%7C+Node.js+%7C+React+%7C+Next.js+%7C+PostgreSQL;Building+Scalable+Software" alt="Typing SVG" />
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@ws7__-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ws7__)
