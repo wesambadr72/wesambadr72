@@ -53,8 +53,8 @@ I'm a 3rd-year Software Engineering student passionate about building intelligen
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### AI / ML
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-74aa9c?style=flat&logo=openai&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-444444?style=flat)
 ![Antigravity](https://img.shields.io/badge/Antigravity-222222?style=flat)
@@ -101,15 +101,6 @@ Automated crypto market alerts and signal tracking bot.
 Chat-first assistant that analyzes documents, surfaces evidence, detects contradictions, and helps users make faster decisions.
 `FastAPI` `AI Agents` `Document Analysis` `RAG` `Bilingual UI` `React`
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=wesambadr72&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
-
-</div>
 
 ---
 
