@@ -102,15 +102,6 @@ Chat-first assistant that analyzes documents, surfaces evidence, detects contrad
 `FastAPI` `AI Agents` `Document Analysis` `RAG` `Bilingual UI` `React`
 
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesambadr72&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=6366f1&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
