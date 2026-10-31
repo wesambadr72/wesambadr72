@@ -16,14 +16,14 @@
 
 
 
-I'm a 3rd-year Software Engineering student passionate about building intelligent, scalable applications. a full-stack engineer with a strong focus on back-end architecture using Python and Node.js, and I enjoy building modern front-end experiences with React while integrating AI/ML into real-world products.
+I'm a 4rd-year Software Engineering student passionate about building useful, intelligent, scalable applications. a full-stack engineer with a strong focus on back-end architecture using Python and Node.js, and I enjoy building modern front-end experiences with React and Next.js while integrating AI/ML into real-world products.
 
 
 - 🎓 Studying Software Engineering @ Umm Al-Qura University
 - 🔭 Currently building AI-powered web applications
-- 🌱 Exploring **Frontend**, **RAG**, **Vector Databases**, **Agentic AI**, and **Microservices**
+- 🌱 Exploring **Frontend**, **RAG**, **Vector Databases**, **Agentic AI**, and **UI/UX**
 - 🤝 Open to collaboration on internship opportunities, open-source, and AI projects
-- ⚡ Fun fact: I also follow crypto markets and sports
+- ⚡ Fun fact: I also follow Trading markets and sports, especially hockey 🏒
 
 ---
 
@@ -32,22 +32,35 @@ I'm a 3rd-year Software Engineering student passionate about building intelligen
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-000000?style=flat&logo=hono&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F70303?style=flat&logo=laravel&logoColor=white)
+
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-232F3E?style=flat&logo=gcp&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -59,7 +72,7 @@ I'm a 3rd-year Software Engineering student passionate about building intelligen
 ![OpenCode](https://img.shields.io/badge/OpenCode-444444?style=flat)
 ![Antigravity](https://img.shields.io/badge/Antigravity-222222?style=flat)
 ![Trae](https://img.shields.io/badge/Trae-0F172A?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=flat&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=flat&logo=huggingface&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -67,9 +80,8 @@ I'm a 3rd-year Software Engineering student passionate about building intelligen
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ## 📚 Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-3DDC84?style=flat&logo=figma&logoColor=white)
+
 
 ---
 
