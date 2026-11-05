@@ -87,6 +87,14 @@ I'm a 4rd-year Software Engineering student passionate about building useful, in
 
 ## 🚀 Featured Projects
 
+### 🏒 [Hokey Arab](https://github.com/wesambadr72/hockeyarab)
+**Arabic Hockey Community Platform**
+
+An Arabic platform dedicated to NHL fans, providing hockey-related content, news, and resources to connect and grow the Arabic-speaking hockey community.
+
+`Web Development` `Frontend` `Backend` `UI/UX` `Arabic` `Next.js`
+
+---
 ### 🏛️ [Tabayun](https://github.com/wesambadr72)
 **Multilingual Legal Comparison Platform**  
 AI-powered legal document comparison tool with a RAG-based chatbot. Built with FastAPI, pgvector, and LangChain.
@@ -105,6 +113,13 @@ Real-time waste detection using YOLOv8 for smart city applications.
 **Cryptocurrency Trading Notification System**  
 Automated crypto market alerts and signal tracking bot.
 `Python` `Crypto APIs` `Telegram Bot` `Payments`
+
+---
+### 🌐[GeoDashboard](https://github.com/wesambadr72/geoDashboard)
+**Interactive web application that visualizes country-level geographic and socioeconomic data**
+Built end‑to‑end with TypeScript.
+`TypeScript` `React` `Hono` `Charts` `Cloudflare`
+
 
 ---
 
@@ -126,7 +141,7 @@ Chat-first assistant that analyzes documents, surfaces evidence, detects contrad
 ---
 
 <div align="center">
-  <i>I never dream of success. I work for it.</i>
+  <i>I Never Dream of Success, I Work for It.</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:ff8a00,100:ff8a00" width="100%" />
